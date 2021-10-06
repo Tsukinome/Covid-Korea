@@ -1,4 +1,4 @@
-# Analysis of COVID-19 in Korea
+# Covid Korea
 
 ## Table of contents
 * [About](#about)
